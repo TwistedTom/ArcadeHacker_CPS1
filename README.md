@@ -6,7 +6,7 @@ Known chips are: CPS-B-01/02/03/04/05/11/12/13/14/15/16/17/18.
 
 The C board must be in it's original with-battery state which means un-modding it if it's been "desuicided".
 
-Current status: keys for 1-5, 11-15, 17 are tested and work. Unable to generate a working key for 16.
+Current status: keys for all known chips are tested and work ok.
 
 Keys are also provided and tested for 01 and 21 (no battery) configurations, but of course there is no practical use for
 these as they both match the no-battery default values of the chip!
